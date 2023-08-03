@@ -19,3 +19,6 @@ Por meio dessa abordagem fullstack, foi possível desenvolver uma aplicação co
 - `TypeScript`
 
 # Design do Site
+![image1](https://github.com/Luccas-Silva/java_CardapioDigital/assets/89430801/39a3bb8c-7e62-409a-a966-3aafebc2c6b0)
+![image2](https://github.com/Luccas-Silva/java_CardapioDigital/assets/89430801/7e10b21d-77f8-4403-85db-c78863ea0fb0)
+
